@@ -1,4 +1,4 @@
-# Nerd Fonts' icons for Python
+# Nerd Fonts icons for Python [![PyPI version](https://badge.fury.io/py/nerdfonts.svg)](https://badge.fury.io/py/nerdfonts)
 
 ## Installation
 
