@@ -1,0 +1,9 @@
+/.idea/
+/build/
+/dist/
+/nerdfonts/icons.py
+
+**/__pycache__/
+
+*.egg-info
+*.pyc
