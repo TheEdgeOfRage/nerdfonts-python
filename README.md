@@ -1,5 +1,7 @@
 # Nerd Fonts icons for Python [![PyPI version](https://badge.fury.io/py/nerdfonts.svg)](https://badge.fury.io/py/nerdfonts)
 
+Forked from [https://gitlab.com/ajeetdsouza/nerdfonts-python](https://gitlab.com/ajeetdsouza/nerdfonts-python)
+
 ## Installation
 
 ```sh
